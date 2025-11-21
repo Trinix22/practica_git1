@@ -1,2 +1,3 @@
 Versión 1 - texto inicial
-Versión 2 - agrego información
+Versión 2 - agrego informacion
+Versión 3 - texto final
